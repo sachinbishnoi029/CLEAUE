@@ -1,0 +1,144 @@
+    <section class="overflow-hidden py-5 py-2 color-light-white pb-4">
+        <h2 class="fs-lg fw-600  ff-montserrat color-light-black text-center pt-md-5 pt-2">What Our Customer Say
+        </h2>
+        <p class="fs-sm fw-400 ff-Montserrat color-light-black text-center">We offer flexible and competitive pricing
+            plans
+            to suit your specific needs. </p>
+        <div class="slider-3">
+            <div class="slider3-card">
+                <div class="d-lg-flex p-xl-4  p-md-3 p-2 gap-2 gap-xl-4">
+                    <div class="d-flex align-items-center  gap-3">
+                        <img src="./assets/images/slider-image-1.png" alt="girl-img" class="w-140">
+                        <div class="d-flex flex-column">
+                            <p class="fs-md ff-montserrat color-light-black fw-600 mb-0 d-lg-none d-block">Arlene McCoy
+                            </p>
+                            <p class="fs-sm fw-400 ff-montserrat color-light-black opacity-50 d-lg-none d-block">CEO of
+                                Mind.ly
+                            </p>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column">
+                        <div class="d-none d-lg-block">
+                            <p class="fs-md ff-montserrat color-light-black fw-600 mb-0 d-none d-lg-block">Arlene McCoy
+                            </p>
+                            <p class="fs-sm fw-400 ff-montserrat color-light-black opacity-50 d-lg-block d-none">CEO of
+                                Mind.ly
+                            </p>
+                        </div>
+                        <p class="fs-sm fw-400 ff-montserrat color-light-black opacity-75 mb-0  pt-2 pt-sm-0">
+                            Contrary to popular
+                            belief,
+                            Lorem
+                            Ipsum is not simply random text. It has roots in a piece of classical Latin literature
+                            from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at
+                            Hampden-Sydney College in Virginia,
+                            looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
+                            and
+                            going</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="slider3-card">
+                <div class="d-lg-flex p-xl-4  p-md-3 p-2 gap-2 gap-xl-4">
+                    <div class="d-flex align-items-center  gap-3">
+                        <img src="./assets/images/slider-image-3.png" alt="girl-img" class="w-140">
+                        <div class="d-flex flex-column">
+                            <p class="fs-md ff-montserrat color-light-black fw-600 mb-0 d-lg-none d-block">Arlene McCoy
+                            </p>
+                            <p class="fs-sm fw-400 ff-montserrat color-light-black opacity-50 d-lg-none d-block">CEO of
+                                Mind.ly
+                            </p>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column">
+                        <div class="d-none d-lg-block">
+                            <p class="fs-md ff-montserrat color-light-black fw-600 mb-0 d-none d-lg-block">Arlene McCoy
+                            </p>
+                            <p class="fs-sm fw-400 ff-montserrat color-light-black opacity-50 d-lg-block d-none">CEO of
+                                Mind.ly
+                            </p>
+                        </div>
+                        <p class="fs-sm fw-400 ff-montserrat color-light-black opacity-75 mb-0  pt-2 pt-sm-0">
+                            Contrary to popular
+                            belief,
+                            Lorem
+                            Ipsum is not simply random text. It has roots in a piece of classical Latin literature
+                            from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at
+                            Hampden-Sydney College in Virginia,
+                            looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
+                            and
+                            going</p>
+                    </div>
+                </div>
+            </div>
+            <div class="slider3-card">
+                <div class="d-lg-flex p-xl-4  p-md-3 p-2 gap-2 gap-xl-4">
+                    <div class="d-flex align-items-center  gap-3">
+                        <img src="./assets/images/slider-image-2.png" alt="girl-img" class="w-140">
+                        <div class="d-flex flex-column">
+                            <p class="fs-md ff-montserrat color-light-black fw-600 mb-0 d-lg-none d-block">Arlene McCoy
+                            </p>
+                            <p class="fs-sm fw-400 ff-montserrat color-light-black opacity-50 d-lg-none d-block">CEO of
+                                Mind.ly
+                            </p>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column">
+                        <div class="d-none d-lg-block">
+                            <p class="fs-md ff-montserrat color-light-black fw-600 mb-0 d-none d-lg-block">Arlene McCoy
+                            </p>
+                            <p class="fs-sm fw-400 ff-montserrat color-light-black opacity-50 d-lg-block d-none">CEO of
+                                Mind.ly
+                            </p>
+                        </div>
+                        <p class="fs-sm fw-400 ff-montserrat color-light-black opacity-75 mb-0 pt-2 pt-sm-0">Contrary
+                            to popular
+                            belief,
+                            Lorem
+                            Ipsum is not simply random text. It has roots in a piece of classical Latin literature
+                            from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at
+                            Hampden-Sydney College in Virginia,
+                            looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
+                            and
+                            going</p>
+                    </div>
+                </div>
+            </div>
+            <div class="slider3-card">
+                <div class="d-lg-flex p-xl-4  p-md-3 p-2 gap-2 gap-xl-4">
+                    <div class="d-flex align-items-center  gap-3">
+                        <img src="./assets/images/slider-image-3.png" alt="girl-img" class="w-140">
+                        <div class="d-flex flex-column">
+                            <p class="fs-md ff-montserrat color-light-black fw-600 mb-0 d-lg-none d-block">Arlene McCoy
+                            </p>
+                            <p class="fs-sm fw-400 ff-montserrat color-light-black opacity-50 d-lg-none d-block">CEO of
+                                Mind.ly
+                            </p>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column">
+                        <div class="d-none d-lg-block">
+                            <p class="fs-md ff-montserrat color-light-black fw-600 mb-0 d-none d-lg-block">Arlene McCoy
+                            </p>
+                            <p class="fs-sm fw-400 ff-montserrat color-light-black opacity-50 d-lg-block d-none">CEO of
+                                Mind.ly
+                            </p>
+                        </div>
+                        <p class="fs-sm fw-400 ff-montserrat color-light-black opacity-75 mb-0 pt-2 pt-sm-0">Contrary
+                            to popular
+                            belief,
+                            Lorem
+                            Ipsum is not simply random text. It h as roots in a piece of classical Latin literature
+                            from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at
+                            Hampden-Sydney College in Virginia,
+                            looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
+                            and
+                            going</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
